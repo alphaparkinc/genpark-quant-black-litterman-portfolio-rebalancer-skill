@@ -1,0 +1,11 @@
+{
+  "name": "genpark-quant-black-litterman-portfolio-rebalancer-skill",
+  "version": "1.0.0",
+  "description": "Quant Black-Litterman Bayesian portfolio rebalancer integrating market equilibrium with subjective agent views and covariance constraints.",
+  "tools": [
+    {
+      "name": "rebalance_portfolio",
+      "description": "Compute optimal Bayesian asset allocation weights blending equilibrium and views."
+    }
+  ]
+}
